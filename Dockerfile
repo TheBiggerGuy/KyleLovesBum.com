@@ -5,4 +5,4 @@ WORKDIR /code
 ADD requirements.txt /code/
 RUN pip install -r requirements.txt
 ADD manage.py /code/
-ADD kylemovesbum /code/
+ADD kylelovesbum /code/
